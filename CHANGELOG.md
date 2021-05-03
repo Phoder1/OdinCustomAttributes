@@ -1,0 +1,1 @@
+- Serious bug fix!: Editor assembly was not set to Editor only and was causing build errors.

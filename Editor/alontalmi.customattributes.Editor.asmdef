@@ -1,0 +1,18 @@
+{
+    "name": "alontalmi.customattributes.Editor",
+    "rootNamespace": "CustomAttributes",
+    "references": [
+        "GUID:66fc33761b72d3149b17bf938e2ddaf4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
