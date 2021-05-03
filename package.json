@@ -1,8 +1,8 @@
 {
-	"name": "com.alontalmi.customattributes",
-	"version": "1.0.2",
-	"displayName": "Custom Attributes",
-	"description": "Simple yet powerful custom attributes collection made for personal use.",
+	"name": "com.alontalmi.odincustomattributes",
+	"version": "1.0.0",
+	"displayName": "Odin Custom Attributes",
+	"description": "Simple yet powerful custom attributes collection made for personal use using Odin Inspector.",
 	"unity": "2020.3",
 	"keywords": [
 		"attributes",

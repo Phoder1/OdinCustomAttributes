@@ -1,5 +1,5 @@
 {
-    "name": "alontalmi.customattributes.Runtime",
+    "name": "alontalmi.odincustomattributes.Runtime",
     "rootNamespace": "CustomAttributes",
     "references": [],
     "includePlatforms": [],
